@@ -14,6 +14,8 @@ public class YakinDemoApplicationTests {
 	this method test the context loader
 	*/
 	public void contextLoads() {
+		Integer a=5;
+		for(int i=0;i<a;i++)System.out.printLn("i="+i);
 	}
 
 }
