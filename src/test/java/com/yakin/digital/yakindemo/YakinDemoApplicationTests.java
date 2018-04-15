@@ -11,7 +11,7 @@ public class YakinDemoApplicationTests {
 
 	@Test
 	/**
-	this method test the conntext load
+	this method test the context loader
 	*/
 	public void contextLoads() {
 	}
