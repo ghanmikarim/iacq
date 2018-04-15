@@ -15,6 +15,8 @@ public class YakinDemoApplicationTests {
 	*/
 	public void contextLoads() {
 		/**faire un boucle */
+		Integer a=5;
+		for(int i=0;i<a;i++)System.out.printLn("i="+i);
 	}
 
 }
