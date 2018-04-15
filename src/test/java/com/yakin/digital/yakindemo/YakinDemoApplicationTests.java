@@ -14,6 +14,7 @@ public class YakinDemoApplicationTests {
 	this method test the context loader
 	*/
 	public void contextLoads() {
+		/**faire un boucle */
 	}
 
 }
